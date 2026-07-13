@@ -29,16 +29,3 @@ I'm **Mohsin Ashraf**, a Bachelor of Computer Applications (BCA) student passion
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mirmohsin0&layout=compact&theme=default)
 
 ---
-
-### 👨‍💻 Languages
-
-- English
-- Urdu
-- Kashmiri
-
-### 🚀 Strengths
-
-- Quick Learner
-- Adaptability
-- Problem Solving
-- Responsible
