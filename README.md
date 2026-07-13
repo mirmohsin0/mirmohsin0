@@ -17,11 +17,3 @@ Hi, I'm Mohsin.<br><br>Passionate about AI/ML, Data Analysis, and Python.<br>Alw
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mirmohsin0&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=mirmohsin0&theme=default)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mirmohsin0&layout=compact&theme=default)
-
----
