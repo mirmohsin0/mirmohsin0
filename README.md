@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Mohsin.<br><br>Passionate about AI/ML, Data Analysis, and Python.<br>Always learning and building.
+Hi, I'm Mohsin.<br><br>Passionate about AI/ML, Data Science, and Python.<br>Always learning and building.
 
 
 ## 🌐 Socials:
